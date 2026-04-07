@@ -1,0 +1,399 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "Jalisco — Sede de la Copa Mundial FIFA 2026™ | Guadalajara te espera",
+      "description": "Jalisco y Guadalajara te dan la bienvenida como sede oficial de la Copa Mundial de la FIFA 2026™. Descubre el estadio, calendario, conectividad, movilidad y más."
+    },
+    "jalisco": {
+      "title": "Bienvenido a Jalisco — Copa Mundial FIFA 2026™",
+      "description": "Descubre Jalisco, la sede más mexicana de la Copa Mundial FIFA 2026™. Cultura, gastronomía y destinos icónicos te esperan."
+    },
+    "calendario": {
+      "title": "Calendario de Partidos en Guadalajara — Mundial 2026™",
+      "description": "Consulta los 4 partidos de la Copa Mundial FIFA 2026™ que se jugarán en el Estadio Guadalajara."
+    },
+    "conectividad": {
+      "title": "Cómo llegar a Guadalajara — Vuelos y Rutas | Mundial 2026™",
+      "description": "Explora vuelos directos y rutas terrestres para llegar a Guadalajara durante la Copa Mundial FIFA 2026™."
+    },
+    "movilidad": {
+      "title": "Movilidad en Guadalajara — Transporte Público | Mundial 2026™",
+      "description": "Conoce Mi Tren, Mi Macro y Mi Bici para moverte por Guadalajara durante la Copa Mundial FIFA 2026™."
+    },
+    "atencionMedica": {
+      "title": "Hospitales y Atención Médica — Guadalajara | Mundial 2026™",
+      "description": "Directorio de hospitales y clínicas en Guadalajara disponibles durante la Copa Mundial FIFA 2026™."
+    },
+    "soporteConsular": {
+      "title": "Consulados y Embajadas en Guadalajara | Mundial 2026™",
+      "description": "Encuentra tu consulado o embajada en Guadalajara para recibir asistencia durante la Copa Mundial FIFA 2026™."
+    }
+  },
+  "Navigation": {
+    "inicio": "Home",
+    "jalisco": "Jalisco",
+    "elMundial": "El Mundial",
+    "calendarioPartidos": "Calendario de Partidos",
+    "conectividad": "Conectividad",
+    "muevete": "Muévete",
+    "comoLlegar": "Cómo Llegar",
+    "movilidadCiudad": "Movilidad en la Ciudad",
+    "tuSeguridad": "Tu Seguridad",
+    "atencionMedica": "Atención Médica",
+    "soporteConsular": "Soporte Consular",
+    "emergencias": "Emergencias"
+  },
+  "Header": {
+    "logoAlt": "Jalisco es México",
+    "login": "INICIA SESIÓN",
+    "hamburgerOpen": "Abrir menú",
+    "hamburgerClose": "Cerrar menú"
+  },
+  "Footer": {
+    "logoAlt": "Jalisco Es México",
+    "navegacion": "Navegación",
+    "siguenos": "Síguenos",
+    "legales": "Legales",
+    "inicio": "Inicio",
+    "estadio": "Estadio",
+    "exploraJalisco": "Explora Jalisco",
+    "seguridad": "Seguridad",
+    "terminos": "Términos y condiciones",
+    "privacidad": "Política de privacidad",
+    "cookies": "Política de cookies",
+    "copyright": "Derechos reservados 2026 Secretaría de Turismo del Estado de Jalisco. Anfitrión de la Copa Mundial 2026™",
+    "avisoPrivacidad": "Aviso de privacidad"
+  },
+  "Countdown": {
+    "label": "Partido inaugural de la Copa Mundial de la FIFA 2026™",
+    "dias": "Días",
+    "horas": "Horas",
+    "minutos": "Minutos",
+    "segundos": "Segundos"
+  },
+  "LanguageSwitcher": {
+    "es": "ESP",
+    "en": "ENG",
+    "fr": "FRA"
+  },
+  "Home": {
+    "hero": {
+      "altImage": "Somos la sede más mexicana — Estadio Guadalajara",
+      "somos": "Somos",
+      "laSede": "la sede",
+      "masMexicana": "más mexicana"
+    },
+    "teEsperamos": {
+      "title": "¡Te esperamos!",
+      "gradientText": "Guadalajara",
+      "subtitle": "También juega",
+      "paragraphBold": "Vive la fiesta más grande del futbol en la sede más mexicana.",
+      "paragraphLight": "Guadalajara se llena de energía, orgullo y alegría para recibir a millones de fanáticos del mundo con el calor de su gente, su historia deportiva y su amor por el balón. Forma parte de un momento histórico: la Copa Mundial de la FIFA 2026™.",
+      "cta": "¡Bienvenido a Jalisco!"
+    },
+    "estadio": {
+      "altImage": "Estadio Guadalajara",
+      "title": "estadio\nGuadalajara",
+      "subtitle": "Donde la historia se juega",
+      "description": "Con su diseño imponente el Estadio Guadalajara está listo para brillar en la Copa Mundial de la FIFA 2026™. Aquí nacen las leyendas, se encienden las pasiones y el futbol se vive con el corazón.",
+      "team1Alt": "México",
+      "team1Name": "México",
+      "team2Alt": "Rep. Corea",
+      "team2Name": "Rep. Corea",
+      "matchDate": "Jueves, 18 de junio 2026",
+      "matchNumber": "Partido 28",
+      "cta": "Ver el calendario de partidos"
+    },
+    "viveGuadalajara": {
+      "title": "Vive Guadalajara",
+      "paragraphBold": "Llegar a la ciudad es tan fácil como vivirla. ",
+      "paragraphLight": "Contamos con excelente conectividad aérea y terrestre, con rutas nacionales e internacionales. Explora el mapa para ubicar aeropuertos, centrales de autobuses, carreteras principales y cómo moverte por la ciudad.",
+      "cardTitle": "Conectividad",
+      "cardAlt": "Mapa de conectividad",
+      "cardCta": "Ver detalle"
+    },
+    "zonaMetropolitana": {
+      "title": "Zona Metropolitana",
+      "guadalajara": "Guadalajara",
+      "zapopan": "Zapopan",
+      "sanPedroTlaquepaque": "San Pedro Tlaquepaque",
+      "tlajomulcoDeZuniga": "Tlajomulco de Zúñiga",
+      "tonala": "Tonalá"
+    },
+    "mueveteFacil": {
+      "title": "Muévete fácil durante el Mundial",
+      "description": "Bienvenido a Guadalajara, la capital de nuestro estado y una ciudad tradicionalmente moderna, donde vivirás la pasión por el futbol como en ninguna otra sede.",
+      "cta": "Conoce más",
+      "altImage": "Movilidad en Guadalajara"
+    },
+    "fifaFanFestival": {
+      "title": "Fifa fan festival",
+      "description": "La fiesta del futbol también se vive fuera de la cancha. Disfruta de los partidos, música y ambiente mundialista en los venues oficiales.",
+      "altImage": "FIFA Fan Festival",
+      "cta": "Conoce los lugares y horarios"
+    },
+    "eventosInolvidables": {
+      "title": "Eventos Inolvidables",
+      "description": "El Mundial se vive dentro y fuera de la cancha. Descubre los eventos que transformarán la ciudad en un escenario de emoción, cultura y celebración.",
+      "altImage": "Eventos Inolvidables",
+      "cta": "Consulta el calendario de eventos"
+    },
+    "exploraJalisco": {
+      "title": "Explora Jalisco",
+      "subtitle": "Más allá del futbol",
+      "description": "Desde los pueblos mágicos hasta las playas doradas, Jalisco te espera con paisajes, sabores y tradiciones que te van a enamorar. Adventúrate más allá de la ciudad y descubre todo lo que este estado tiene para ofrecer.",
+      "experiencias": "Experiencias y paquetes turísticos",
+      "pueblosMagicos": "Pueblos Mágicos",
+      "rutasTuristicas": "Rutas turísticas",
+      "playas": "Playas"
+    },
+    "hospedarte": {
+      "title": "Dónde hospedarte",
+      "description": "Tu descanso, nuestra hospitalidad. Encuentra opciones de alojamiento para todos los gustos y presupuestos, cerca de los venues y en las zonas más vibrantes de la ciudad.",
+      "cta": "Explora opciones de hospedaje"
+    },
+    "sabores": {
+      "title": "Sabores tapatíos",
+      "description": "Sabores para celebrar. Descubre la riqueza gastronómica de Jalisco desde: antojitos tradicionales hasta cocina contemporánea que cautiva todos los paladares.",
+      "cta": "Explora restaurantes"
+    },
+    "seguridad": {
+      "title": "Tu seguridad es\nnuestra prioridad",
+      "description": "Disfruta la Copa Mundial de la FIFA 2026™ con la confianza de que estamos listos para apoyarte, vive esta experiencia con tranquilidad y nuestro respaldo.",
+      "soporteConsularTitle": "Soporte Consular",
+      "soporteConsularDesc": "Encuentra el apoyo de tu país durante tu estancia. Diversas representaciones consulares estarán disponibles en Guadalajara para ayudarte.",
+      "soporteConsularCta": "Encuentra tu consulado",
+      "atencionMedicaTitle": "Atención Médica",
+      "atencionMedicaDesc": "Contamos con hospitales y clínicas de calidad internacional preparados para atenderte en cualquier momento.",
+      "atencionMedicaCta": "Encuentra hospitales y clínicas",
+      "consejosTitle": "Consejos de Seguridad",
+      "consejosDesc": "Recomendaciones básicas para que tu experiencia en Guadalajara sea segura, tranquila y sin contratiempos.",
+      "consejosCta": "Lee las recomendaciones",
+      "emergenciasTitle": "Emergencias",
+      "emergenciasDesc": "Ten a la mano los números clave para recibir ayuda inmediata en caso de cualquier incidente.",
+      "emergenciasCta": "Consulta los teléfonos"
+    }
+  },
+  "Jalisco": {
+    "hero": {
+      "altImage": "Guadalajara Historia",
+      "badge": "Bienvenido a Jalisco",
+      "title": "Donde el mundo encuentra la esencia de México",
+      "description": "Guadalajara — la sede más mexicana — recibe cuatro partidos de la Copa Mundial de la FIFA 2026™. Durante tu estancia descubre su cultura, gastronomía y destinos icónicos."
+    },
+    "sedeMasMexicana": {
+      "heading": "La sede más mexicana",
+      "altImage": "La sede más mexicana",
+      "p1": "Guadalajara brilla ante el mundo como la sede más mexicana de la Copa Mundial de la FIFA 2026™, al recibir cuatro partidos en el Estadio Guadalajara.",
+      "p2": "No es casualidad. Guadalajara es la puerta de entrada a Jalisco, el estado donde conviven algunas de las claves más profundas de la identidad mexicana: el tequila, la música de mariachi y la charrería.",
+      "p3": "Aquí, el futbol se vive con la intensidad y pasión que nos caracteriza a los mexicanos, entre recintos llenos de historia, música que brota del corazón, el zapateado del jarabe tapatío que cimbra en nuestro ser completo y la hospitalidad que nos distingue, y convierte cada visita en una celebración compartida."
+    },
+    "metropoli": {
+      "heading": "Una metrópoli contemporánea",
+      "altImage": "Una metrópoli contemporánea",
+      "p1": "Guadalajara, una metrópoli contemporánea, creativa y abierta al mundo. Es sede de eventos internacionales como la Feria Internacional del Libro (FIL), el encuentro editorial más importante de habla hispana; el Festival Internacional de Cine (FICG), un referente del cine en Latinoamérica; y el Encuentro Internacional del Mariachi, que celebra a la música que nació en nuestro estado.",
+      "p2": "Su arquitectura combina tradición, historia y modernidad; su agenda cultural incluye arte, diseño, música y espectáculos durante todo el año; y su gastronomía, reconocida por su autenticidad e innovación, invita a descubrir sabores que van de la cocina tradicional jalisciense — como las típicas tortas ahogadas, la carne en su jugo, las jericallas — a propuestas contemporáneas de alto nivel."
+    },
+    "destinos": {
+      "heading": "Destinos que enamoran",
+      "altImage": "Destinos que enamoran",
+      "p1": "Desde la capital es fácil expandir tu viaje hacia otros destinos emblemáticos de Jalisco. A 2.5 horas por carretera, Puerto Vallarta ofrece el contraste perfecto entre la energía urbana, la serenidad del Pacífico y el colorido de un pueblo tradicional mexicano.",
+      "p2": "Muy cerca de Guadalajara también se encuentran el Pueblo Mágico de Tequila, cuna de la bebida emblema del país y Patrimonio de la Humanidad por la UNESCO. La Ribera de Chapala, en el lago más grande de México, destaca por el pintoresco Pueblo Mágico de Ajijic y su zona de viñedos. Cocula, conocida como la cuna del mariachi, es uno de los lugares en los que se puede disfrutar de una de las mejores birrias del estado."
+    },
+    "blockquote": "Montañas, lagos, paisaje agavero, mar: la geografía de Jalisco tiene una asombrosa diversidad natural que sorprende a cada uno de los viajeros que llegan a este destino.",
+    "closing": {
+      "title": "El futbol es solo el inicio",
+      "description": "Durante el Mundial 2026, Jalisco es mucho más que un escenario deportivo: es la puerta para descubrir la esencia de México. En nuestra tierra nacen los símbolos más queridos del país: tequila, mariachi y charrería.",
+      "backLink": "Volver al inicio"
+    }
+  },
+  "Calendario": {
+    "hero": {
+      "badge": "Calendario",
+      "altImage": "Estadio Guadalajara",
+      "title": "Partidos en Guadalajara",
+      "description": "El Estadio Guadalajara será sede de 4 partidos de la Copa Mundial de la FIFA 2026™."
+    },
+    "section": {
+      "title": "Calendario de partidos",
+      "description": "Cuatro encuentros se jugarán en el Estadio Guadalajara durante la fase de grupos. Estos son los partidos confirmados."
+    },
+    "stadiumTitle": "Estadio Guadalajara",
+    "stadiumDesc": "El Estadio Guadalajara es uno de los símbolos más modernos del futbol en México. Inaugurado el 30 de julio de 2010, fue concebido para ser la casa permanente del C.D. Guadalajara, uno de los clubes con mayor tradición del país.",
+    "capacidadTitle": "Capacidad",
+    "capacidadText": "Casi 50,000 espectadores distribuidos en zonas de alto confort, con diseño moderno inspirado en elementos volcánicos.",
+    "canchaTitle": "Cancha",
+    "canchaText": "Superficie de césped natural cumpliendo estándares FIFA para torneos de élite con iluminación LED de última generación.",
+    "historiaTitle": "Historia",
+    "historiaText": "Sede de la Copa Mundial Sub-17 FIFA 2011, Juegos Panamericanos 2011, finales de liga y partidos internacionales.",
+    "experienciaTitle": "Experiencia",
+    "experienciaText": "Museo JOVEM, Museo interactivo de Chivas y cafés de especialidad como Birote y El Terrible Juan Café.",
+    "highlightTitle": "Guadalajara: Cuna del Futbol Mexicano",
+    "highlightDesc": "El Club Deportivo Guadalajara \"Chivas\", fundado en 1906, es uno de los equipos más exitosos y queridos del país, reconocido por su filosofía de formar y alinear exclusivamente futbolistas mexicanos.",
+    "historyTitle": "Historia deportiva y grandes momentos",
+    "historyP1": "Desde el primer partido amistoso del Rebaño Sagrado contra el Manchester United, donde Javier \"Chicharito\" Hernández marcó el primer gol en la casa rojiblanca, el estadio ha sido testigo de momentos memorables.",
+    "historyP2": "Uno de los primeros grandes hitos fue la final de ida de la Copa Libertadores 2010 entre Chivas e Internacional de Porto Alegre, consolidando el recinto como sede de eventos de alto nivel. Además de clásicos y finales de la liga mexicana, fue sede de la Copa Mundial Sub-17 FIFA 2011, donde México se coronó campeón del mundo.",
+    "historyP3": "El Estadio Guadalajara promete ser un punto de encuentro para aficionados de todo el mundo que quieran sentir la pasión del futbol en un ambiente vibrante y profundamente mexicano.",
+    "backLink": "Volver al inicio"
+  },
+  "Conectividad": {
+    "hero": {
+      "altImage": "Conectividad aérea y terrestre a Guadalajara",
+      "badge": "Conectividad",
+      "title": "Cómo llegar a Guadalajara"
+    },
+    "intro": {
+      "title": "Explora las rutas hacia Guadalajara",
+      "description": "Guadalajara es una de las ciudades mejor conectadas de México. Explora las opciones de vuelos directos y rutas terrestres desde las principales ciudades del continente."
+    },
+    "tabAereo": "✈️ Aéreo",
+    "tabTerrestre": "🚗 Terrestre",
+    "aereo": {
+      "searchTitle": "Buscar destino aéreo",
+      "searchPlaceholder": "Ciudad o aerolínea...",
+      "searchAriaLabel": "Buscar destino aéreo",
+      "todos": "Todos",
+      "nacional": "Nacional",
+      "internacional": "Internacional",
+      "sinResultados": "Sin resultados",
+      "abrirBusqueda": "Abrir búsqueda",
+      "cerrar": "Cerrar",
+      "duracion": "Duración:",
+      "vueloNacional": "Vuelo Nacional",
+      "vueloInternacional": "Vuelo Internacional",
+      "aerolineas": "Aerolíneas con vuelo directo",
+      "buscarVuelos": "Buscar vuelos en Google Flights"
+    },
+    "terrestre": {
+      "searchTitle": "Buscar destino terrestre",
+      "searchPlaceholder": "Ciudad, estado o línea de autobús...",
+      "searchAriaLabel": "Buscar destino terrestre",
+      "todos": "Todos",
+      "enAuto": "En Auto",
+      "enAutobus": "En Autobús",
+      "sinResultados": "Sin resultados",
+      "abrirBusqueda": "Abrir búsqueda",
+      "cerrar": "Cerrar",
+      "enAutomovil": "🚗 En Automóvil",
+      "distancia": "Distancia:",
+      "tiempo": "Tiempo:",
+      "enAutobusLabel": "🚌 En Autobús",
+      "terminal": "Terminal:",
+      "centralVieja": "Central Vieja",
+      "nuevaCentral": "Nueva Central",
+      "lineasAutobus": "Líneas de autobús",
+      "ruta": "Ruta:",
+      "verRuta": "Ver ruta en Google Maps"
+    }
+  },
+  "Movilidad": {
+    "hero": {
+      "altImage": "Movilidad en Guadalajara",
+      "badge": "Movilidad",
+      "title": "Movilidad en\nla ciudad"
+    },
+    "miMovilidad": {
+      "title": "Mi Movilidad",
+      "description": "Guadalajara cuenta con un sistema de transporte público moderno y eficiente. Conoce las opciones para moverte por la ciudad durante la Copa Mundial de la FIFA 2026™.",
+      "miTrenTitle": "Mi Tren",
+      "miTrenDesc": "4 líneas de tren ligero que conectan la zona metropolitana. Rápido, seguro y accesible.",
+      "miMacroTitle": "Mi Macro",
+      "miMacroDesc": "2 líneas de autobús de tránsito rápido (BRT) con carriles exclusivos por la ciudad.",
+      "miBiciTitle": "Mi Bici",
+      "miBiciDesc": "Sistema de bicicletas públicas con 370+ estaciones en la zona metropolitana."
+    },
+    "puntosInteres": "Puntos de interés",
+    "comoLlegar": "Cómo llegar →",
+    "cerrar": "Cerrar",
+    "comoPagar": {
+      "title": "Cómo pagar tu transporte",
+      "tarjetaTitle": "Tarjeta Mi Movilidad",
+      "tarjetaDesc": "Tarjeta recargable válida en Mi Tren, Mi Macro y Mi Bici. Disponible en estaciones y puntos de venta autorizados.",
+      "efectivoTitle": "Efectivo",
+      "efectivoDesc": "Paga en efectivo directamente en las taquillas de las estaciones de Mi Tren y Mi Macro. Costo: $11 MXN por trayecto.",
+      "contactlessTitle": "Pago Contactless",
+      "contactlessDesc": "Usa tu tarjeta bancaria contactless o dispositivo móvil para pagar directamente en los torniquetes de acceso."
+    },
+    "miTren": {
+      "title": "Mi Tren",
+      "priceTag": "$11 MXN por trayecto",
+      "horario": "Horario: 05:00 – 23:00",
+      "description": "El sistema de tren ligero de Guadalajara cuenta con 4 líneas que conectan los principales puntos de la zona metropolitana."
+    },
+    "miMacro": {
+      "title": "Mi Macro",
+      "priceTag": "$11 MXN por trayecto",
+      "horario": "Horario: 05:00 – 23:00",
+      "description": "El sistema de autobús de tránsito rápido (BRT) con carriles exclusivos para recorridos más rápidos por la ciudad."
+    },
+    "lineCard": {
+      "estaciones": "estaciones",
+      "verEstaciones": "Ver estaciones",
+      "ocultarEstaciones": "Ocultar estaciones"
+    },
+    "mapaTransporte": {
+      "title": "Mapa de la red de transporte",
+      "description": "Consulta el mapa completo de rutas de Mi Tren, Mi Macro y Mi Bici para planificar tus traslados.",
+      "altImage": "Mapa de red de transporte de Guadalajara",
+      "verMapa": "🔍 Ver mapa completo",
+      "lightboxAriaLabel": "Mapa de transporte ampliado",
+      "cerrar": "Cerrar"
+    },
+    "miBici": {
+      "title": "Mi Bici",
+      "priceTag": "Desde $120 MXN",
+      "horarioLabel": "Horario:",
+      "horarioValue": "05:00 – 00:59",
+      "suscripcionLabel": "Suscripción:",
+      "suscripcionValue": "Planes de 1, 3 o 7 días desde $120 MXN. Viajes ilimitados de hasta 30 minutos cada uno.",
+      "requisitosLabel": "Requisitos:",
+      "requisitosValue": "Tarjeta de crédito + tarjeta Mi Movilidad.",
+      "estacionesLabel": "Estaciones:",
+      "estacionesValue": "370+ estaciones distribuidas en la zona metropolitana.",
+      "extra": "Mi Bici es ideal para recorridos cortos por las zonas más vibrantes de Guadalajara: Colonia Americana, Chapultepec, Centro Histórico y más.",
+      "altImage": "Mi Bici Guadalajara"
+    }
+  },
+  "AtencionMedica": {
+    "hero": {
+      "badge": "Tu Seguridad",
+      "title": "Atención Médica en Guadalajara",
+      "description": "Durante la Copa Mundial de la FIFA 2026™, Guadalajara cuenta con una red de hospitales públicos y privados listos para atenderte."
+    },
+    "directoryTitle": "Directorio Médico",
+    "directoryDesc": "La infraestructura médica de Guadalajara y su zona metropolitana está preparada para ofrecerte atención de calidad durante tu estancia. Contamos con hospitales de prestigio internacionalmente reconocidos, clínicas especializadas y centros médicos disponibles 24 horas.",
+    "searchPlaceholder": "Busca por nombre o dirección...",
+    "todos": "Todos",
+    "particulares": "Particulares",
+    "publicos": "Públicos",
+    "mostrandoResultado": "Mostrando {count} resultado",
+    "mostrandoResultados": "Mostrando {count} resultados",
+    "hospitalPublico": "Hospital Público",
+    "hospitalParticular": "Hospital Particular",
+    "backLink": "Volver al inicio"
+  },
+  "SoporteConsular": {
+    "hero": {
+      "badge": "Tu Seguridad",
+      "title": "Soporte Consular en Guadalajara",
+      "description": "Durante la Copa Mundial de la FIFA 2026™, las representaciones consulares en Guadalajara están disponibles para apoyarte."
+    },
+    "queEsConsuladoTitle": "¿Qué es un consulado?",
+    "queEsConsuladoText": "Es una oficina de tu país establecida en México que tiene el propósito de apoyar y proteger los derechos, así como otorgar servicios a sus nacionales en el extranjero.",
+    "queEsAsistenciaTitle": "¿Qué es la asistencia consular?",
+    "queEsAsistenciaText": "Son acciones que realiza el personal consular de aconsejar, brindar atención y asesoría jurídica a sus connacionales en el extranjero.",
+    "queEsProteccionTitle": "¿Qué es la protección consular?",
+    "queEsProteccionText": "Conjunto de acciones, gestiones, buenos oficios e intervenciones que realiza el personal consular de tu país en México para salvaguardar los derechos de sus nacionales.",
+    "directoryTitle": "Directorio Consular",
+    "directoryDesc": "Representaciones consulares en Guadalajara y zona metropolitana. Encuentra la embajada o consulado de tu país para recibir asistencia durante tu estancia.",
+    "searchPlaceholder": "Busca por país o dirección...",
+    "todos": "Todos",
+    "embajadas": "Embajadas",
+    "consulados": "Consulados",
+    "mostrandoResultado": "Mostrando {count} resultado",
+    "mostrandoResultados": "Mostrando {count} resultados",
+    "embajada": "Embajada",
+    "consulado": "Consulado",
+    "backLink": "Volver al inicio"
+  }
+}
