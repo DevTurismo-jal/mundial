@@ -427,7 +427,7 @@ export default async function HomePage({
         {/* Panel 1: Dónde Hospedarte (STICKY) */}
         <section className="relative w-full h-[calc(85vh+20px)] min-h-[500px] md:h-[700px] overflow-hidden sticky top-0 z-[1]">
           <Image
-            src="/assets/Hoteles.jpg"
+            src="/assets/Hoteles-2.jpg"
             alt="Dónde hospedarte"
             fill
             className="object-cover"
