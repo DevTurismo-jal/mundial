@@ -340,33 +340,37 @@ export default async function HomePage({
       </section>
 
       {/* ===== 8. EVENTOS INOLVIDABLES ===== */}
-      <section className="relative h-auto min-h-[500px] md:h-[680px] overflow-hidden">
-        <Image
-          src="/assets/Eventos-dos.jpg"
-          alt="Eventos Inolvidables"
-          fill
-          className="object-cover"
-        />
-        <div
-          className="absolute inset-0 pointer-events-none"
-          style={{
-            background:
-              "linear-gradient(223.293deg, rgba(0,0,0,0) 57.33%, rgba(0,0,0,0.6) 83.183%)",
-          }}
-        />
-        <div className="relative z-10 flex flex-col justify-center h-full px-5 py-10 md:px-20 md:py-0">
-          <div className="backdrop-blur-[7px] bg-white/90 rounded-card-lg max-md:rounded-card-mobile p-6 md:p-8 w-full max-w-[520px] flex flex-col gap-6 md:gap-8">
+      <section className="relative flex flex-col md:block md:h-[680px] md:min-h-[500px] overflow-hidden">
+        {/* Image — stacked on mobile, absolute on desktop */}
+        <div className="relative w-full h-[65vh] min-h-[380px] md:absolute md:inset-0 md:h-full">
+          <Image
+            src="/assets/Eventos-dos.jpg"
+            alt="Eventos Inolvidables"
+            fill
+            className="object-cover"
+          />
+          <div
+            className="absolute inset-0 pointer-events-none"
+            style={{
+              background:
+                "linear-gradient(223.293deg, rgba(0,0,0,0) 57.33%, rgba(0,0,0,0.6) 83.183%)",
+            }}
+          />
+        </div>
+        {/* Card — below image on mobile, overlaid on desktop */}
+        <div className="relative z-10 bg-white px-6 py-8 md:bg-transparent md:px-20 md:py-0 md:absolute md:inset-0 md:flex md:flex-col md:justify-center">
+          <div className="md:backdrop-blur-[7px] md:bg-white/90 md:rounded-card-lg md:p-8 w-full max-w-[520px] flex flex-col gap-6 md:gap-8">
             <div className="flex flex-col gap-2">
-              <h2 className="font-brigends text-[20px] sm:text-[24px] md:text-[42px] leading-[26px] sm:leading-[30px] md:leading-[50px] text-navy uppercase">
+              <h2 className="font-brigends text-[32px] md:text-[42px] leading-[38px] md:leading-[50px] text-navy uppercase">
                 Eventos Inolvidables
               </h2>
-              <p className="font-noto text-[13px] md:text-sm text-dark-sub opacity-80 leading-[1.5]">
+              <p className="font-noto text-[14px] md:text-sm text-dark-sub opacity-80 leading-[1.65]">
                 El Mundial se vive dentro y fuera de la cancha. Descubre los
                 eventos que transformar&aacute;n la ciudad en un escenario de
                 emoci&oacute;n, cultura y celebraci&oacute;n.
               </p>
             </div>
-            <CtaPill href="#" variant="outline">
+            <CtaPill href="#" variant="outline" className="max-md:w-full max-md:justify-center">
               Consulta el calendario de eventos
             </CtaPill>
           </div>
@@ -432,13 +436,13 @@ export default async function HomePage({
             fill
             className="object-cover"
           />
-          <div className="relative z-[2] flex flex-col justify-center h-full px-5 py-10 md:px-20 md:py-0">
-            <div className="backdrop-blur-[7px] bg-white/90 rounded-card-lg max-md:rounded-card-mobile p-6 md:p-8 w-full max-w-[520px] flex flex-col gap-6 md:gap-8 items-start">
-              <div className="flex flex-col gap-2">
-                <h2 className="font-noto text-[26px] md:text-[32px] font-black text-navy uppercase tracking-[-1.28px] leading-[1.1]">
+          <div className="relative z-[2] flex flex-col justify-end md:justify-center h-full px-5 pb-8 pt-4 md:px-20 md:py-0">
+            <div className="backdrop-blur-[7px] bg-white/90 rounded-card-lg max-md:rounded-card-mobile p-5 md:p-8 w-full max-w-[520px] flex flex-col gap-4 md:gap-8 items-start">
+              <div className="flex flex-col gap-1 md:gap-2">
+                <h2 className="font-noto text-[22px] md:text-[32px] font-black text-navy uppercase tracking-[-1.28px] leading-[1.1]">
                   D&oacute;nde hospedarte
                 </h2>
-                <p className="font-noto text-[13px] md:text-sm text-dark-sub opacity-80 leading-[1.5]">
+                <p className="font-noto text-[12px] md:text-sm text-dark-sub opacity-80 leading-[1.5]">
                   Tu descanso, nuestra hospitalidad. Encuentra opciones de
                   alojamiento para todos los gustos y presupuestos, cerca de los
                   venues y en las zonas m&aacute;s vibrantes de la ciudad.
@@ -461,13 +465,13 @@ export default async function HomePage({
           />
           {/* Overlay */}
           <div className="absolute inset-0 bg-[rgba(3,1,75,0.7)] mix-blend-soft-light" />
-          <div className="relative z-[2] flex flex-col justify-center h-full px-5 py-10 md:px-20 md:py-0">
-            <div className="backdrop-blur-[7px] bg-white/90 rounded-card-lg max-md:rounded-card-mobile p-6 md:p-8 w-full max-w-[520px] flex flex-col gap-6 md:gap-8 items-start">
-              <div className="flex flex-col gap-2">
-                <h2 className="font-noto text-[26px] md:text-[32px] font-black text-navy uppercase tracking-[-1.28px] leading-[1.1]">
+          <div className="relative z-[2] flex flex-col justify-end md:justify-center h-full px-5 pb-8 pt-4 md:px-20 md:py-0">
+            <div className="backdrop-blur-[7px] bg-white/90 rounded-card-lg max-md:rounded-card-mobile p-5 md:p-8 w-full max-w-[520px] flex flex-col gap-4 md:gap-8 items-start">
+              <div className="flex flex-col gap-1 md:gap-2">
+                <h2 className="font-noto text-[22px] md:text-[32px] font-black text-navy uppercase tracking-[-1.28px] leading-[1.1]">
                   Sabores tapat&iacute;os
                 </h2>
-                <p className="font-noto text-[13px] md:text-sm text-dark-sub opacity-80 leading-[1.5]">
+                <p className="font-noto text-[12px] md:text-sm text-dark-sub opacity-80 leading-[1.5]">
                   Sabores para celebrar. Descubre la riqueza gastron&oacute;mica
                   de Jalisco desde: antojitos tradicionales hasta cocina
                   contempor&aacute;nea que cautiva todos los paladares.
